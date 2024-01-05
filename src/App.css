@@ -245,7 +245,6 @@ body {
   color: white;
   padding: 8px 15px;
   border-radius: 10px;
-  /* Smaller border radius */
   cursor: pointer;
   transition: background-color 0.3s ease-in-out;
   font-size: 1rem;
